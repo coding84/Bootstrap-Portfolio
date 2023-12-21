@@ -1,4 +1,41 @@
+
+
+/* Nav Start */
 nav:backdrop
 a{
     text-decoration:none;
 }
+
+.navbar>.container-fluid, 
+navbar container {
+
+    border-color:rgb(10, 9, 9);
+    background-color:lightgrey;
+}
+
+body  {background-color:rgb(225, 241, 247) ;
+    
+}
+  
+
+  .navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+  }
+  .navbar-brand img {
+    padding-right: 20px;
+    width: 300px;
+  }
+  .nav-item {
+    margin: 0px 15px;
+  }
+  
+  
+  .navCTA {
+    font-size: 15px;
+  }
+
+  .img-size {
+    height: 200px;
+    width: 100%;
+  }
