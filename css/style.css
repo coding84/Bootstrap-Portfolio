@@ -26,6 +26,10 @@ body  {background-color:rgb(225, 241, 247) ;
     padding-right: 20px;
     width: 300px;
   }
+.box{
+  padding:0;
+}
+
   .nav-item {
     margin: 0px 15px;
   }
@@ -39,3 +43,16 @@ body  {background-color:rgb(225, 241, 247) ;
     height: 200px;
     width: 100%;
   }
+
+
+  /* Example CSS for footer links hover effect */
+footer ul li a {
+  text-decoration: none;
+  color: #333;
+  transition: color 0.3s;
+}
+
+footer ul li a:hover {
+  color: #f5680b;
+}
+
